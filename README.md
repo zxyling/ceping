@@ -1,6 +1,7 @@
 # ceping
 Vocational Assessment System
 
+```
 ├── client 前端开发文件夹
 │   ├── assets 前端自测试打包资源生成地址
 │   │   └── dist 打包生成的资源文件, 包含js,img,css
@@ -31,3 +32,5 @@ Vocational Assessment System
     ├── models 后端数据库控制代码存放目录
     ├── route 后端路由存放目录
     └── view 后端页面生成外套层存放目录,由于界面同步, 后端只负责生成页面时的外套嵌套
+
+```
